@@ -66,8 +66,7 @@ Thumbs.db
 # Project specific
 temp_file.exe
 temp_uploaded_file
-*.pkl
-*.joblib
+
 
 # Jupyter Notebook
 .ipynb_checkpoints
